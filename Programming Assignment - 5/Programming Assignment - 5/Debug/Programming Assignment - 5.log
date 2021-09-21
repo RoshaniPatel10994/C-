@@ -1,0 +1,11 @@
+﻿  Programming Assignment - 5.cpp
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(30,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(33,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(36,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(47,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(51,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(55,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(70,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(74,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Programming Assignment - 5\Programming Assignment - 5.cpp(78,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Programming Assignment - 5.vcxproj -> C:\Users\MAP\Desktop\CCCC++++\Assignment\Programming Assignment - 5\Debug\Programming Assignment - 5.exe
